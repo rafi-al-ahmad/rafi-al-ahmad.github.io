@@ -4718,12 +4718,12 @@ iframe, object {
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
-	background-image: url(../images/IMG_1367-1920x1080.jpg);
+	background-image: url(../images/rafi-2.jpg);
 }
 
 @media (max-width: 900px) {
 	.video-bg {
-		background-image: url(../images/IMG_1364-1920x1080.jpg);
+		background-image: url(../images/rafi-3.jpg);
 	}
 }
 
